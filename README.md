@@ -13,10 +13,10 @@ The objective of this project is to use the MPU6050 sensor to measure the orient
 - Write and upload code to the Arduino board to get the orientation data from the MPU6050 sensor
 - Use the orientation data to control the movement of the robot
 
-# Expected Outcome
+## Expected Outcome
 The expected outcome of this project is a working motion-controlled robot that can be controlled using the movements of a user's hand.
 
-# Applications
+## Applications
 This project can be used for educational purposes, as it demonstrates the use of the MPU6050 sensor and the Arduino platform for controlling the movement of a robot. It can also be used for entertainment purposes, as it allows for a new and interactive way of controlling a robot.
 
 # Knowledgement
